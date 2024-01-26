@@ -5,6 +5,7 @@ from src.mlproject.logger import logging
 import pandas as pd 
 from dotenv import load_dotenv
 import pymysql
+from sqlalchemy import create_engine
 
 load_dotenv()
 
@@ -22,8 +23,10 @@ def read_sql_data():
             password = password,
             db = db
         )
-        logging.info("Connection Eastablished",mydb)
-        df = pd.read_sql_query('Select * from students',mydb)
+        engine = create_engine(f"mysql+pymysql://{user}:{password}@{host}/{db}")
+        logging.info("Connection Eastablished",engine)
+        df = pd.read_sql_query('Select * from students', con=engine)
+        #df = pd.read_sql_query('Select * from students',mydb)
         print(df.head())
         
         return df
