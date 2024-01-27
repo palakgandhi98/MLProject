@@ -10,5 +10,7 @@ seaborn
 catboost
 xgboost
 mlflow
-mlflow dagshub
+mlflow 
+dagshub
+flask
 #-e .
