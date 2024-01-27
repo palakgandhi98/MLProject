@@ -9,4 +9,6 @@ sqlalchemy
 seaborn
 catboost
 xgboost
+mlflow
+mlflow dagshub
 #-e .

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Krish%20Naik/mlproject_new/mlruns/0/552281d985e44224907359233edd9ff0/artifacts
+end_time: 1706383199674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 552281d985e44224907359233edd9ff0
+run_name: abundant-colt-421
+run_uuid: 552281d985e44224907359233edd9ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706383147998
+status: 3
+tags: []
+user_id: root
