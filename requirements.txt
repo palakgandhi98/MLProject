@@ -1,8 +1,12 @@
 numpy
 pandas
+Pyarrow
 python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
 sqlalchemy
+seaborn
+catboost
+xgboost
 #-e .
