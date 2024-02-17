@@ -4,11 +4,11 @@
 
 ### Software And Tools Requirements
 
-1. [Github Account](https://github.com/Strimmerz)
-2. [DagsHub](https://dagshub.com/apgandhi98/MLProject)
-2. [HerokuAccount](https://heroku.com)
-3. [VSCodeIDE](https://code.visualstudio.com/)
-4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+1. [Github Account](https://github.com/palakgandhi98)
+2. [DagsHub](https://dagshub.com/palakgandhi98/MLProject)
+3. [HerokuAccount](https://heroku.com)
+4. [VSCodeIDE](https://code.visualstudio.com/)
+5. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Create a new environment
 
