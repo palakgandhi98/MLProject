@@ -22,11 +22,6 @@ The end-to-end machine learning project for Boston House Pricing Prediction invo
 
 In summary, the end-to-end machine learning project for Boston House Pricing Prediction incorporates Docker for containerization to streamline deployment and maintenance, along with a CI/CD pipeline for automating testing and deployment processes, ensuring efficient project management and delivery.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16189200/f9464ed9-9dea-4f9e-bc0a-3967a0751820/requirements.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16189200/10b9fe50-d590-4113-b6d1-101cdc7ca689/application.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16189200/dc0c512f-006d-4927-9d40-ad089000eebc/app.py
-
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com/palakgandhi98)
